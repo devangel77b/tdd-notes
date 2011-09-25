@@ -1,0 +1,11 @@
+syntax: glob
+*.aux
+*.log
+*.bbl
+*.out
+*.toc
+*.blg
+*.synctex.gz
+*~
+
+syntax: regexp
