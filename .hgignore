@@ -7,5 +7,6 @@ syntax: glob
 *.blg
 *.synctex.gz
 *~
+.DS_Store
 
 syntax: regexp
