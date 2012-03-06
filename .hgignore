@@ -8,5 +8,6 @@ syntax: glob
 *.synctex.gz
 *~
 .DS_Store
+*.pdf
 
 syntax: regexp
